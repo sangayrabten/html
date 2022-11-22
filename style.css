@@ -1,0 +1,28 @@
+h1{
+  color: blue;  
+}
+
+.p1{
+    font-size: 20px;
+    color: blueviolet;
+}
+/* css for Iamge */
+img{
+    align-items: center;
+}
+
+/* css for div1 */
+#div1
+{
+    height: 200px;
+    width: 300px;
+    background-color: aqua;
+    padding: 20px;
+    margin: 30px;
+}
+
+.img1{
+    background: yellow;
+    height: 200px;
+    width: 100px;
+ }
